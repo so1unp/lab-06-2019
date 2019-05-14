@@ -3,7 +3,7 @@ BIN=./bin
 CFLAGS=-Wall -g -pthread -lm -Ilib/
 LIBS=lib/get_num.c lib/error_functions.c
 
-PROG=copy write_bytes
+PROG=write_bytes
 
 LIST=$(addprefix $(BIN)/, $(PROG))
 
