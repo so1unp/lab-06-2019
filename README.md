@@ -1,3 +1,5 @@
+# ARCHIVADO -- nuevo version: [lab-io](https://github.com/so1unp/lab-io)
+
 # Laboratorio 6 - E/S
 
 **Modo de entrega**: realizar un informe en formato PDF donde se respondan las consignas de cada ejercicio. En aquellos donde deban modificar archivos de *xv6*, subir las copias de los mismos en el repositorio del laboratorio.
